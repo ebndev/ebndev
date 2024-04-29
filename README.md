@@ -11,7 +11,7 @@ let ebndev = {
   interests: ['Crafting', 'Cooking', 'Biking', 'Music'],
   career: ['Software Engineer', 'Developer Advocate', 'Community Manager'],
   communities: {
-    moderator: 'GitHub',
+    moderator: 'GitHub Discussions',
     developer: 'Baddies in Tech',
     organizer: 'Asian Solidarity Collective'
   }
