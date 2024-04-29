@@ -1,5 +1,5 @@
 <h2> Hello friends! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://github.com/ebndev/ebndev/blob/main/gh-readme.png" width="230">
 
 <p>Community Manager by day | Artist by night</p>
 <p>My dream role is on the beach eating fruit 🍉</p>
