@@ -6,7 +6,7 @@
 
 ```javascript
 let ebndev = {
-  pronouns: 'she' | 'they',
+  pronouns: 'She' | 'They',
   code: 'All Things JavaScript',
   interests: ['Crafting', 'Cooking', 'Biking', 'Music'],
   career: ['Software Engineer', 'Developer Advocate', 'Community Manager'],
