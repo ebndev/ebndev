@@ -1,7 +1,9 @@
-<h2> Hello friends! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hello friends! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"></h2>
 
 <p>Community Manager by day | Artist by night</p>
 <p>My dream role is on the beach eating fruit 🍉</p>
+
+ <em>Find me and say hi in <a href='https://github.com/orgs/community/discussions/' target='blank'>GitHub Discussions</a>! :)</em>
 
 <img align='right' src="https://github.com/ebndev/ebndev/blob/main/octocat.png" width="250">
 
@@ -18,9 +20,3 @@ let ebndev = {
   }
 } // used let instead of const because I am forever changing and growing 🌿
 ```
-
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em>Find me and say hi in <a href='https://github.com/orgs/community/discussions/' target='blank'>GitHub Discussions</a>! :)</em>
-
----
