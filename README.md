@@ -21,6 +21,6 @@ let ebndev = {
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em>I love connecting with new people so if you want to say hi, find me in <a href='https://github.com/orgs/community/discussions/' target='blank'>GitHub Discussions</a>! :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em>Find me and say hi in <a href='https://github.com/orgs/community/discussions/' target='blank'>GitHub Discussions</a>! :)</em>
 
 ---
