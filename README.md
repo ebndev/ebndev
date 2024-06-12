@@ -3,7 +3,7 @@
 <p>Community Manager by day | Artist by night</p>
 <p>My dream role is on the beach eating fruit 🍉</p>
 
-<img align='right' src="https://github.com/ebndev/ebndev/blob/main/octocat.png" width="275">
+<img align='right' src="https://github.com/ebndev/ebndev/blob/main/octocat.png" width="250">
 
 ```javascript
 let ebndev = {
