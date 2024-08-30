@@ -13,10 +13,5 @@ let ebndev = {
   code: 'All Things JavaScript',
   interests: ['Crafting', 'Cooking', 'Biking', 'Music'],
   career: ['Software Engineer', 'Developer Advocate', 'Community Manager'],
-  communities: {
-    moderator: 'GitHub Discussions',
-    developer: 'Baddies in Tech',
-    organizer: 'Asian Solidarity Collective'
-  }
 } // used let instead of const because I am forever changing and growing 🌿
 ```
